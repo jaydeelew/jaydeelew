@@ -8,7 +8,6 @@
 
 ## 🖥️ About Me
 
-- 🐍 Currently building a **Python-based Poker Game** with a sleek **GUI using Qt / PySide6**
 - 🧩 Passionate about **problem-solving**—regularly tackling <a href="https://leetcode.com" target="_blank">LeetCode</a> challenges
 - 🤖 Strong interest in **Artificial Intelligence**: experimenting with AI models and integrating them into projects
 - 🌐 Exploring **modern web technologies**: React (Vite, TypeScript), FastAPI, REST APIs, Docker
@@ -20,7 +19,7 @@
 
 ## 🛸 Current Projects
 
-- 🐍 Building a feature-rich **Poker Game** with **PySide6 GUI**
+- 🐍 Currently building a **Python-based Poker Game** with a sleek **GUI using Qt / PySide6**
 - 📊 Developing an **AI Model Comparison Website**: Compare and visualize outputs and performance of multiple ML models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
 - 💡 Practicing and writing up solutions for **daily LeetCode challenges**
 
