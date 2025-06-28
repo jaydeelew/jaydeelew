@@ -6,7 +6,7 @@
 
 ---
 
-## 🖥️ About Me
+## 👤 About Me
 
 - 🧩 Passionate about **problem-solving**—regularly tackling <a href="https://leetcode.com" target="_blank">LeetCode</a> challenges
 - 🤖 Strong interest in **Artificial Intelligence**: experimenting with AI models and integrating them into projects
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛸 Current Projects
+## 🛠️ Current Projects
 
 - 🐍 Currently building a **Python-based Poker Game** with a sleek **GUI using Qt / PySide6**
 - 📊 Developing an **AI Model Comparison Website**: Compare and visualize outputs and performance of multiple ML models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
