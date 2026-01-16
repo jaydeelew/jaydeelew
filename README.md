@@ -17,10 +17,9 @@
 
 ---
 
-## 🛠️ Current Projects
+## 🛠️ Current Project
 
-- 🐍 Currently building a **Python-based Poker Game** with a sleek **GUI using Qt / PySide6**
-- 📊 Developing an **AI Model Comparison Website**: Compare and visualize outputs and performance of multiple ML models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
+- 📊 Developing  **compareintel.com**: Compare and visualize outputs and performance of multiple AI models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
 
 ---
 
