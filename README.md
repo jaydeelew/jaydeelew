@@ -19,7 +19,7 @@
 
 ## 🛠️ Current Project
 
-- 📊 Developing  **compareintel.com**: Compare and visualize outputs and performance of multiple AI models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
+- 📊 Developing  **compareintel.com**: A website/pwa that compares outputs of multiple AI models side-by-side using React (Vite, TypeScript) frontend and FastAPI backend
 
 ---
 
